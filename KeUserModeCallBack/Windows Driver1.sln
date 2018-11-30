@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windows Driver1", "Windows Driver1\Windows Driver1.vcxproj", "{B54482B9-0297-4D9E-8CE7-6690A9D85315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Win7 Checked|Win32 = Win7 Checked|Win32
+		Win7 Checked|x64 = Win7 Checked|x64
+		Win7 Free|Win32 = Win7 Free|Win32
+		Win7 Free|x64 = Win7 Free|x64
+		WinXP Checked|Win32 = WinXP Checked|Win32
+		WinXP Checked|x64 = WinXP Checked|x64
+		WinXP Free|Win32 = WinXP Free|Win32
+		WinXP Free|x64 = WinXP Free|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Checked|Win32.ActiveCfg = Win7 Checked|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Checked|Win32.Build.0 = Win7 Checked|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Checked|x64.ActiveCfg = Win7 Checked|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Checked|x64.Build.0 = Win7 Checked|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Free|Win32.ActiveCfg = Win7 Free|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Free|Win32.Build.0 = Win7 Free|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Free|x64.ActiveCfg = Win7 Free|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.Win7 Free|x64.Build.0 = Win7 Free|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Checked|Win32.ActiveCfg = WinXP Checked|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Checked|Win32.Build.0 = WinXP Checked|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Checked|x64.ActiveCfg = WinXP Checked|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Checked|x64.Build.0 = WinXP Checked|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Free|Win32.ActiveCfg = WinXP Free|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Free|Win32.Build.0 = WinXP Free|Win32
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Free|x64.ActiveCfg = WinXP Free|x64
+		{B54482B9-0297-4D9E-8CE7-6690A9D85315}.WinXP Free|x64.Build.0 = WinXP Free|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
